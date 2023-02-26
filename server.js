@@ -14,3 +14,5 @@ app.listen(8080, function () {
   console.log('listening on 8080')
   console.log('welcome to fullhouse mall server!')
 });
+
+// 커밋 테스트

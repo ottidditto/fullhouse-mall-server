@@ -1,0 +1,3 @@
+[submodule "fullhouse-mall-front"]
+	path = fullhouse-mall-front
+	url = https://github.com/ottidditto/fullhouse-mall-front.git
